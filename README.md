@@ -1,6 +1,15 @@
-# isala-code
-This is the code I've written for my graduation project "Piep Piep Paniek" for the hospital Isala in Zwolle. This code is from my game-project made using Unity, however I do not want to share all of the project files. This is purely meant to have a look at the code. 
+# isala-sharing
+**File structure**
+- See "BUILD" for the playable version of the game.
+- See "NEW_Scripts" for the code used in the project.
+- See "OLD_Scripts" for the redundant code, I've decided to show it, as it was part of the process.
 
-The NEW_Scripts folder contains the code that is used in the project, while OLD_Scripts is redundant code. I've kept the OLD_Scripts available to see, as they were part of the progress.
+**Game instructions**
+- Use "WASD" for movement, avoid the walls.
+- Go into the room with the computers gain access to patients their information.
+- Go into the patient rooms to maintain their health.
+- Go into the canteen to keep yourself healthy.
 
-Enjoy ^^
+**Additional**
+- More information about the development of the project can be found on my portfolio, which can be found on my LinkedIn. _linkedin.com/in/brent-vos-77880226b_
+- Feel free to contact me if you find any bugs in the game. The game is still being worked on, as the future of the project is still being discussed.
