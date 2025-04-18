@@ -1,6 +1,6 @@
 # isala-sharing
 **File structure**
-- See "BUILD" for the playable version of the game.
+- See "BUILD - 2.5" for the playable version of the game.
 - See "NEW_Scripts" for the code used in the project.
 - See "OLD_Scripts" for the redundant code, I've decided to show it, as it was part of the process.
 
